@@ -1,0 +1,7 @@
+address: 'https://test-stand.gb.ru'
+#driver_path: ./chromedriver.exe
+browser: chrome   # указываем тип браузера
+sleep_time: 3   # задержка
+username: 'Finik'
+password: '70ccea8a70'
+title: 'Title_hw1'
